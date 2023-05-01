@@ -1,0 +1,11 @@
+#root {
+  width: 100%;
+  text-align: center;
+}
+
+.page{
+  width: 100%;
+}
+.card {
+  padding: 2em;
+}
